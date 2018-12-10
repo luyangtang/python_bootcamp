@@ -1,5 +1,5 @@
 # python_bootcamp
-Lecture notes and miscellaneous material for the python bootcamp. For any query, typo or additional support, please contact me via kojika.tang@gmail.com. 
+Lecture notes and miscellaneous material for the python bootcamp. For any query, typo correction or request for additional support, please contact me via kojika.tang@gmail.com. 
 
 ## Course content and syllabus
 
