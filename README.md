@@ -1,10 +1,13 @@
 # python_bootcamp
-Lecture notes and miscellaneous material for the python bootcamp. For any query, typo correction or request for additional support, please contact me via kojika.tang@gmail.com. 
+Lecture notes and miscellaneous material for the python bootcamp. For any query, typo correction or request for additional support, please contact me via kojika.tang@gmail.com.
 
 ## Course content and syllabus
 
 ### Introduction to Python
+Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
+
 1. Introduction to Git, GitHub, Python and Anaconda (our toolkits).
+  - 
 2. Python basics (variables, functions, scope, debug, etc.)
 3. Variables and fundamental data types
 4. Control flow
