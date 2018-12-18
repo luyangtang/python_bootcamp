@@ -26,4 +26,5 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 | Topic | Lecture Note | Reading material | Assignment | Solution |
 | --- | --- | --- | --- | --- |
 | Installation instructions | [Notes](./installation_and_prerequisites/readme.md) | | | |
-| Numbers, strings, list | [Notes](./python_basics/lecture_note.ipynb) | [Readings](./python_basics/reading_list.md) | [Assignment 1](./python_basics/fibonacci_series.py) | [Solution 1](./python_basics/fibonacci_series_solution.py)|
+| Basic expressions and Warm-ups| | | [Exercise](https://repl.it/@luyangtang/basicoperations) | |
+| Numbers, strings, list and basic flow controls | [Notes](./python_basics/lecture_note.ipynb) | [Readings](./python_basics/reading_list.md) |  [Exercise](./python_basics/fibonacci_series.py) | [Solution](./python_basics/fibonacci_series_solution.py)|
