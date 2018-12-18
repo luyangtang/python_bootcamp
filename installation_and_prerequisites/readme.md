@@ -25,3 +25,6 @@ We will be using Skype to host our lessons. You can download it from [here](http
 _Remark_: if the Skype connection is poor, we will try other conference apps. Will be great if you can let me be aware of any connection issue you have before we start!
 
 See you in our upcoming lessons!
+
+##### Repl.it
+A simple online IDE supporting multiple programming languages. For coding exercises you will find it useful - drag and drop the folder and run the whole script without using shells. Link is [here](https://repl.it/).
