@@ -13,9 +13,9 @@ print("Hello world")
 '''
 
 welcoming_msg = '''
-Welcome to the Python bootcamp! 
+Welcome to the Python bootcamp!
 
-In this section we will warm ourselves up for the upcoming challenges. 
+In this section we will warm ourselves up for the upcoming challenges.
 
 Feel free to skip this section if you have already got some coding experience.
 
@@ -29,7 +29,7 @@ In the console you will probably want to type
 
 > 8 - 9
 
-This will show a correct answer. 
+This will show a correct answer.
 
 > 8 + (10 - 2)
 
@@ -63,6 +63,5 @@ def warm_up_exercise():
 
   questionBank = QuestionBank(multiplication,modulo,logical_operator,string_literal,list_literal)
 
-  
+
   questionBank.run(passing_score = 80)
-  

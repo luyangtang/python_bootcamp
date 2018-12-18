@@ -6,8 +6,7 @@ from script.python_basics import *
 
 
 def main():
-  print("Hello world")
-  warm_up_exercise()
+    warm_up_exercise()
 
 if __name__ == '__main__':
   main()
