@@ -50,5 +50,5 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 | --- | --- | --- | --- | --- |
 | 1. Installation instructions | [Notes](./installation_and_prerequisites/readme.md) | | | |
 | 2. Basic expressions and Warm-ups | [Notes](./python_basics/lecture_note.ipynb) | [Readings](./python_basics/reading_list.md) |  [Exercise](./exercise_bank)| |
-| 3. Control flows | [Conditional statement](./flow_control/Conditional statement.ipynb), [While loop](./flow_control/While Loop.ipynb), [For loop](./flow_control/For loop.ipynb)| | [Exercise](./python_basics/fibonacci_series.py) | [Solution](./python_basics/fibonacci_series_solution.py)|
+| 3. Control flows | [Conditional statement](./flow_control/Conditional_statement.ipynb) , [While loop](./flow_control/While_Loop.ipynb) , [For loop](./flow_control/For_loop.ipynb) | | [Exercise](./python_basics/fibonacci_series.py) | [Solution](./python_basics/fibonacci_series_solution.py)|
 | 4. Functions | | | | |
