@@ -21,22 +21,27 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 ### Introduction to Python
 1. Virtual environments and pip freeze
 2. Modules
-3. Visual Studio Code
+3. Visual Studio Code and Spyder
+4. iPython vs terminal line
+5. Numpys and Pandas
 
 
 ### Algorithms
 1. Linear algebra - an overview
 2. Introduction to normal linear regression
 3. Regression in Python
-4. Data visualisation in Python
+4. Data visualisation in Python (seaborn)
 5. Machine learning toolkits
+6. EM-algorithm in Python
 
 
 
 ### Web development with Django
 1. Quick start
-2. Restful API
+2. Http basics and web scraping 
 3. Visualise your data with d3.js
+4. API and Restful API in Django
+5. Build a stock data monitor
 
 
 ### Bonus
@@ -53,4 +58,4 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 | 3. Control flows | [Conditional statement](./flow_control/Conditional_statement.ipynb) , [While loop](./flow_control/While_Loop.ipynb) , [For loop](./flow_control/For_loop.ipynb) | | [Exercise](./python_basics/fibonacci_series.py) | [Solution](./python_basics/fibonacci_series_solution.py)|
 | 4. Functions | [Notes](./flow_control/functions.ipynb) | | | |
 | 5. Classes | [Notes](./classes/classes.ipynb) | [Iterators](./classes/Iterators.ipynb) | | |
-| 6. Exception handling | [Notes](./exception_handling/exception_handling.ipynb) | | | |
+| 6. Exception handling | [Notes](./exception_handling/exception_handling.ipynb) | [Unit tests](./exception_handling/unit_tests.ipynb) | | |
