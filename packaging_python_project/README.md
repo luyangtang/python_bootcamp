@@ -162,3 +162,35 @@ python3 -m twine upload --repository testpypi dist/*
 ```
 python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps animal-pkg-lyt
 ```
+
+
+
+## Virtual environment
+
+To create a virtual environment
+
+```
+python -m venv venv
+```
+`python` - if Python is not installed in your system path/ you'd like to use a different version of python executable, you can specify it here. 
+
+`venv` - run the `venv` command
+
+`venv` - name this virtual environment as 'venv'
+
+
+To produce a list of the installed package 
+
+```
+pip freeze > {filename}.txt
+```
+
+By convention, this file is named as `requirements.txt`.
+
+
+
+To install a list of packages:
+
+```
+pip install -r requirements.txt
+```
