@@ -48,6 +48,7 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 1. Markdown
 2. SQL
 3. Flask
+4. Git
 
 
 ## Course material
@@ -59,3 +60,4 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 | 4. Functions | [Notes](./flow_control/functions.ipynb) | | | |
 | 5. Classes | [Notes](./classes/classes.ipynb) | [Iterators](./classes/Iterators.ipynb) | | |
 | 6. Exception handling | [Notes](./exception_handling/exception_handling.ipynb) | [Unit tests](./exception_handling/unit_tests.ipynb) | | |
+| 7. Packaging Python project | [Project](./packaging_python_project) | | | |
