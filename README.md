@@ -1,5 +1,5 @@
-# python_bootcamp
-Lecture notes and miscellaneous material for the python bootcamp. For any query, typo correction or request for additional support, please contact me via kojika.tang@gmail.com.
+# Python bootcamp
+Lecture notes and miscellaneous material for the python bootcamp. For any query, typo correction or request for additional support, please raise an issue.
 
 ## Course content and syllabus
 
@@ -23,7 +23,7 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 2. Modules
 3. Visual Studio Code and Spyder
 4. iPython vs terminal line
-5. Numpys and Pandas
+5. Numpy and Pandas
 
 
 ### Algorithms
@@ -54,10 +54,17 @@ Credit to [python.org](https://docs.python.org/3/tutorial/index.html).
 ## Course material
 | Topic | Lecture Note | Reading material | Assignment | Solution |
 | --- | --- | --- | --- | --- |
-| 1. Installation instructions | [Notes](./installation_and_prerequisites/readme.md) | | | |
+| 1. Installation instructions | [Notes](./installation_and_prerequisites/readme.md) | Git| | |
 | 2. Basic expressions and Warm-ups | [Notes](./python_basics/lecture_note.ipynb) | [Readings](./python_basics/reading_list.md) |  [Exercise](./exercise_bank)| |
 | 3. Control flows | [Conditional statement](./flow_control/Conditional_statement.ipynb) , [While loop](./flow_control/While_Loop.ipynb) , [For loop](./flow_control/For_loop.ipynb) | | [Exercise](./python_basics/fibonacci_series.py) | [Solution](./python_basics/fibonacci_series_solution.py)|
 | 4. Functions | [Notes](./flow_control/functions.ipynb) | | | |
 | 5. Classes | [Notes](./classes/classes.ipynb) | [Iterators](./classes/Iterators.ipynb) | | |
 | 6. Exception handling | [Notes](./exception_handling/exception_handling.ipynb) | [Unit tests](./exception_handling/unit_tests.ipynb) | | |
 | 7. Packaging Python project | [Project](./packaging_python_project) | [Virtual environment](https://docs.python.org/3/tutorial/venv.html)| | |
+| 8. Dataframes | | | | |
+| 9. Finance data API | | Web scraping| | |
+| 10. Visualise stock data | | d3.js | | |
+| 11. Build a Django website | | SQL, Flask| | |
+| 12. Applied stats using Python | | Monte Carlo | | |
+| 13. Simple classification | | sklearn, scipy| | |
+| 14. EM algorithm | | | | |
